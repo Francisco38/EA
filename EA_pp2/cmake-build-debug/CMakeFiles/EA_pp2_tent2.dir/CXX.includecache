@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/faria/CLionProjects/EA_pp2_tent2/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+unordered_map
+-
+sstream
+-
+
