@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/faria/CLionProjects/EA_pp3/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+map
+-
+queue
+-
+
